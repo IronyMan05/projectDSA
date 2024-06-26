@@ -1,3 +1,4 @@
+//CLI based
 import java.util.*;
 class Main
 {
